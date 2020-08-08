@@ -1,2 +1,0 @@
-Desafio 1
-Fazer o select de acordo com o visto em curso
